@@ -10,6 +10,6 @@ public class HomeController {
 
 	public String home() {
 		System.out.println("My name is MAHESH.");
-		return "home";
+		return "Mahesh";
 	}
 }

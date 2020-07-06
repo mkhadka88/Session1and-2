@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Archive/" kind="src" path="Assignments/src"/>
+	<classpathentry kind="src" path="Assignments/src/Archive"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="Consumer/src"/>
+	<classpathentry kind="src" path="Inhertitance/src"/>
+	<classpathentry kind="src" path="MyWebApp/.mvn/wrapper"/>
+	<classpathentry kind="src" path="MyWebApp/src/main/java"/>
+	<classpathentry kind="src" path="MyWebApp/src/test/java"/>
+	<classpathentry kind="src" path="OopsConcept/src"/>
+	<classpathentry kind="src" path="Session1/src"/>
+	<classpathentry kind="src" path="Session2/src"/>
+	<classpathentry kind="src" path="Session3/src"/>
+	<classpathentry kind="src" path="SpringEdurekaDemo/src"/>
+	<classpathentry kind="output" path="Consumer/bin"/>
+</classpath>
